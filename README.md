@@ -7,8 +7,8 @@ A Logistic Regression-based model to determine whether an employee is experienci
 Mental Health in the Tech Industry and other similar datasets.
 - Performance Metrics:
 
-Accuracy: 81.85%
-Precision: ~0.6
+-- Accuracy: 81.85%
+-- Precision: ~0.6
 ## Features
 
 - Trained and tested across multiple datasets to ensure robustness.
